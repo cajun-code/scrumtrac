@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="744bf152-6403-4954-8589-f99b821cc784" kpf_version="5" name="scrumtrac.komodoproject">
+<preference-set idref="744bf152-6403-4954-8589-f99b821cc784">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

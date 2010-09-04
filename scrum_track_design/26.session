@@ -1,0 +1,11 @@
+window_sizes 1280 725 300 974 526 120
+diagrams
+  active  classdiagram_ref 128026 // Domain
+    974 526 100 4 0 0
+end
+show_stereotypes
+selected attribute_ref 128026 // email
+open
+  class_ref 128666 // User
+end
+end
